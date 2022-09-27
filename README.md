@@ -28,3 +28,6 @@ Valorant game info application which is developed using MVVM, Clean Architecture
   </tr>
 </table>
 
+# Download
+Download the [APK](https://github.com/MohitMandalia/ValorantApp/releases/tag/v1.0-alpha) here
+
