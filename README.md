@@ -1,6 +1,6 @@
 # ValorantApp
 
-Valorant game info application which is developed using MVVM, Clean Architecture, Hilt, Flow, Coroutines, Retrofit
+Valorant game info application which is developed using Jetpack Compose MVVM, Clean Architecture, Hilt, Flow, Coroutines, Retrofit
 
 # Screens
 
