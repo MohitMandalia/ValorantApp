@@ -2,6 +2,8 @@
 
 Valorant game info application which is developed using Jetpack Compose MVVM, Clean Architecture, Hilt, Flow, Coroutines, Retrofit
 
+Using [Valorant Api](https://valorant-api.com/)
+
 # Screens
 
 <table>
